@@ -50,5 +50,5 @@ Image-Description으로 생성된 캡션을 바탕으로 효과음을 생성합�
 <h2>결론</h2>
 본 프로젝트는 영상 효과음 제작의 시간과 비용 절감을 목표로 하였으며, AI 모델인 Yolov5, AudioLDM-2, Kosmos-2를 활용하여 자동 효과음 생성 및 편집 기능을 구현하였습니다.<br>
 
-<h2>미리보기</h2>
+<h2>시연영상</h2>
 https://www.youtube.com/watch?v=doqFVXvGheE&list=LL&index=44
