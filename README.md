@@ -53,9 +53,9 @@ Image-Description으로 생성된 캡션을 바탕으로 효과음을 생성합�
 
 <h2>담당 업무</h2>
 * 웹 UI 제작<br>
-* 영상 편집 기능 제작
-* 자막 생성 기능 및 영상 잘라내기 기능 구현
-* 영상 추출 구현
+* 영상 편집 기능 제작<br>
+* 자막 생성 기능 및 영상 잘라내기 기능 구현<br>
+* 영상 추출 구현<br>
 
 <h2>시연영상</h2>
 https://www.youtube.com/watch?v=doqFVXvGheE&list=LL&index=44
